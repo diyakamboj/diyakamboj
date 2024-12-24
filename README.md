@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Diya Kamboj</h1>
+<h3 align="center"> A passionate AI/ML Engineer and Software Developer from Bothell, WA, USA</h3>
+<img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyakamboj&label=Profile%20views&color=0e75b6&style=flat" alt="diyakamboj" /> </p>
 
 I'm **Diya Kamboj**, a Computer Science and Software Engineering student at the University of Washington, Bothell. I am passionate about technology and innovation, with a keen interest in software development, artificial intelligence, and cybersecurity.
 
