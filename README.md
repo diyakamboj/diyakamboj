@@ -1,6 +1,3 @@
-Sent by Copilot:
-I can help you update the README.md file for Diya Kamboj based on the content from her website. Here’s a draft:
-
 ## Hi there 👋
 
 I'm **Diya Kamboj**, a Computer Science and Software Engineering student at the University of Washington, Bothell. I am passionate about technology and innovation, with a keen interest in software development, artificial intelligence, and cybersecurity.
