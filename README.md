@@ -13,7 +13,7 @@ I'm **Diya Kamboj**, a Computer Science and Software Engineering student at the 
 - 👯 I’m looking to collaborate on innovative **tech projects and hackathons**.
 - 🤔 I’m looking for help with exploring new AI techniques and their applications.
 - 💬 Ask me about my journey in tech, my projects, or anything related to AI and software development.
-- 📫 How to reach me: dkamboj@uw.edu
+- 📫 How to reach me: dkamboj@uw.edu or diyakamboj@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am also an avid photographer and enjoy capturing moments through my lens.
 
