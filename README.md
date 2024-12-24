@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Diya Kamboj</h1>
 <h3 align="center"> A passionate AI/ML Engineer and Software Developer from Bothell, WA, USA</h3>
-<div algin="center">
+<div style="text-align:center">
 <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diyakamboj&label=Profile%20views&color=0e75b6&style=flat" alt="diyakamboj" /> </p>
@@ -83,23 +83,3 @@ I'm **Diya Kamboj**, a Computer Science and Software Engineering student at the 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diyakamboj&" alt="diyakamboj" /></p>
 
 
-
-### Education
-- **University of Washington, Bothell** (2024 - Present)
-  - Major: Computer Science and Software Engineering
-- **Henry M. Jackson High School** (2020 - 2024)
-  - GPA: 3.97 (Unweighted)
-  - Class Rank: Top 10%
-
-### Certifications
-- Introduction to Data Science (Girls Who Code)
-- Learning Python (LinkedIn)
-- Programming Foundations: Fundamentals (LinkedIn)
-
-### Projects
-- **Personal Website**: Built and maintained my personal website [diyakamboj.com](https://www.diyakamboj.com/)
-- **Hackathons**: Participated and won awards in various hackathons, including DubsTech Datathon and UW Bothell Hacks AI Hackathon.
-
-Feel free to connect with me on LinkedIn or check out my [portfolio](https://www.diyakamboj.com/) for more details about my work and experiences.
-
-Let me know if you need any changes or additional information!
